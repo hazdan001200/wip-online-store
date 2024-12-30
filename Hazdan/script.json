@@ -1,0 +1,48 @@
+[
+    {
+    "productname" : "Vintage car",
+    "description" : "Elegance at its peak" ,
+    "category" : ["Cars"],
+    "price" : "$500",
+    "image_url" : "https://plus.unsplash.com/premium_photo-1664391978793-b4788c1d405b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTAxfHxjYXJzfGVufDB8fDB8fHww/300x200"
+},
+
+{
+    "productname" : "Vintage car",
+    "description" : "Elegance at its peak" ,
+    "category" : ["Cars"],
+    "price" : "$500",
+    "image_url" : "https://plus.unsplash.com/premium_photo-1661434688067-ad3e44615c2e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODl8fGNhcnN8ZW58MHx8MHx8fDA%3D/300x200"
+},
+
+{
+    "productname" : "Vintage car",
+    "description" : "Elegance at its peak" ,
+    "category" : ["Cars"],
+    "price" : "$500",
+    "image_url" : "https://plus.unsplash.com/premium_photo-1664303847960-586318f59035?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2Fyc3xlbnwwfHwwfHx8MA%3D%3D/300x200"
+},
+
+{
+    "productname" : "Sport car",
+    "description" : "Speed like speed darlington",
+    "category" : ["Cars"],
+    "price" : "$500",
+    "image_url" : "https://plus.unsplash.com/premium_photo-1683134237608-cc2ebbfe18c8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTN8fGNhcnN8ZW58MHx8MHx8fDA%3D/300x200" 
+},
+
+{
+    "productname" : "Sport car",
+    "description" : "Speed like speed darlington",
+    "category" : ["Cars"],
+    "price" : "$500",
+    "image_url" : "https://plus.unsplash.com/premium_photo-1677993186547-86e4c4292c3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fGNhcnN8ZW58MHx8MHx8fDA%3D/300x200" 
+},
+{
+    "productname" : "Sport car",
+    "description" : "Speed like speed darlington" ,
+    "category" : ["Cars"],
+    "price" : "$500",
+    "image_url" : "https://plus.unsplash.com/premium_photo-1677993186547-86e4c4292c3a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzN8fGNhcnN8ZW58MHx8MHx8fDA%3D/300x200" 
+}
+]
